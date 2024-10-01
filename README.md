@@ -6,7 +6,7 @@ i'm elizabeth, a junior @ wellesley college ⋆｡°🎧ྀི.⊹₊ ⋆
 ⊹ privacy and security issues surrounding ai  
 ⊹ reinforcement learning! (shoutout to research lead david kim)  
 ⊹ shiny for python  
-⊹ creating voice recognition systems  
+⊹ quant & fintech
 
 [**reach out to me!** ](mailto:elizabeth.rose.yan@gmail.com)
 
