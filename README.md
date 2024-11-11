@@ -5,7 +5,7 @@ i'm elizabeth, a junior @ wellesley college ⋆｡°🎧ྀི.⊹₊ ⋆
 **current interests**  
 ⊹ privacy and security issues surrounding ai  
 ⊹ reinforcement learning! (shoutout to research lead david kim)  
-⊹ web dev
+⊹ web dev  
 ⊹ quant & fintech
 
 [**reach out to me!** ](mailto:elizabeth.rose.yan@gmail.com)
