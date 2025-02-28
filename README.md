@@ -5,7 +5,6 @@ i'm elizabeth, a junior @ wellesley college ⋆｡°🎧ྀི.⊹₊ ⋆
 **current interests**  
 ⊹ privacy and security issues surrounding ai  
 ⊹ ai alignment (scary...)  
-⊹ dynamic programming?! ;-;  
 ⊹ fintech  
 
 [**reach out to me!** ](mailto:elizabeth.rose.yan@gmail.com)
